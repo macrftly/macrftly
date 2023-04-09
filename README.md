@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Marty.
+## Hi there 👋. I'm Marty, nice to meet you.
 
 <!--
 **macrftly/macrftly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
